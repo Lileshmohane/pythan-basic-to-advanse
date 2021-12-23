@@ -1,0 +1,16 @@
+list1 = [1,2,3,"lilesh"]
+print(list1)
+l1  = [2,4,55,16,22,44]
+print(l1)
+l1.sort()
+print(l1)
+l1.reverse()
+print(l1)
+l1.append(33)
+print(l1)
+l1.insert(1,"lil")
+print(l1)
+l1.pop(4)
+print(l1)
+l1.remove(22)
+print(l1)

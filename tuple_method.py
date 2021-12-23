@@ -1,0 +1,5 @@
+t=(1,2,3,4,5)
+print(t.count(1))
+print(t.index(3))
+a =(7,0,8,0,0,9)
+print(a.count(0))
